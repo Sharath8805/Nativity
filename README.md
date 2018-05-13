@@ -1,7 +1,7 @@
 # Nativity
 A super framework of UI components built with an aim to enhance the native app development speed and experience.
 
-# 1.Why Nativity?
+## 1.Why Nativity?
 There are numerous choices to develop a mobile app, primarily the native, cross compiled and hybrid paths.
 The aim of frameworks/SDKs that build cross compiled apps or Hybrid frameworks are to improve the development speed and target platforms like iOS and Android through a single code base.
 
