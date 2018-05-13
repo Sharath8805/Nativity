@@ -3,7 +3,7 @@ A super framework of UI components built with an aim to enhance the native app d
 
 ## 1. Why Nativity?
 There are numerous choices to develop a mobile app, primarily the native, cross compiled and hybrid paths.
-The aim of frameworks/SDKs that build cross compiled apps or Hybrid frameworks are to improve the development speed and target platforms like iOS and Android through a single code base.
+The aim of frameworks/SDKs that build cross compiled apps or Hybrid frameworks is to improve the development speed and target platforms like iOS and Android through a single code base.
 
 However, these frameworks/SDKs takeaway the experience and joy, programmers get when extending the standard iOS/Android SDKs to achieve what they need.
 Frameworks/SDKs that build cross compiled apps do their bit of providing a better solution by compiling a native app, while allowing programmers to use one code for all the platforms. Hybrid apps are improving in their performance and overall look and feel, each day. But the way a native app runs has always been admired. 
